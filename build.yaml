@@ -17,7 +17,8 @@ include:
 # Hillside 46
 #   Comment out below if you do not have this board, to save build time
   - board: nrfmicro_13
-    shield: hillside46_left nice_view_adapter nice_view
+    shield: hillside46_left 
+    # nice_view_adapter nice_view
   - board: nrfmicro_13
     shield: hillside46_right
   - board: nrfmicro_13
