@@ -16,10 +16,10 @@ include:
 
 # Hillside 46
 #   Comment out below if you do not have this board, to save build time
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: hillside46_left 
     # nice_view_adapter nice_view
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: hillside46_right
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: settings_reset
